@@ -1,2 +1,2 @@
-# probable-octo
+# myCanvas
 Group Project 2 
